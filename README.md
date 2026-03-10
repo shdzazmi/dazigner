@@ -1,91 +1,149 @@
-# Next.js
+<div align="center">
 
-A modern Next.js 15 application built with TypeScript and Tailwind CSS.
+# ⚡ Dazigner
 
-## 🚀 Features
+### Neo-Brutalist Developer Portfolio
 
-- **Next.js 15** - Latest version with improved performance and features
-- **React 19** - Latest React version with enhanced capabilities
-- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+A modern **neo-brutalist portfolio website** built with **Next.js and React** to showcase my projects, design work, and development experiments.
 
-## 🛠️ Installation
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Style](https://img.shields.io/badge/Style-Neo--Brutalism-FFD600?style=for-the-badge)
+![Built With](https://img.shields.io/badge/Built%20With-Rocket.new-FFD600?style=for-the-badge)
 
-1. Install dependencies:
-  ```bash
-  npm install
-  # or
-  yarn install
-  ```
+</div>
 
-2. Start the development server:
-  ```bash
-  npm run dev
-  # or
-  yarn dev
-  ```
-3. Open [http://localhost:4028](http://localhost:4028) with your browser to see the result.
+---
 
-## 📁 Project Structure
+# 🌐 About The Project
+
+**Dazigner** is my personal portfolio website designed with a **neo-brutalist visual style** — bold colors, sharp contrasts, and playful layouts.
+
+The project showcases my work as a:
+
+- 💻 Full-stack developer  
+- 🎨 UI/UX designer  
+- 🖌 Graphic designer  
+
+This portfolio was **automatically generated using Rocket.new**, an AI-powered platform that builds websites from prompts.
+
+---
+
+# 🎨 Design Style
+
+The website uses a **Neo-Brutalist design approach** characterized by:
+
+- bold colors
+- strong typography
+- visible layout structure
+- playful UI components
+- minimal polish but high personality
+
+Neo-brutalism embraces **raw digital aesthetics** while remaining modern and interactive.
+
+---
+
+# ✨ Features
+
+⚡ Built with **Next.js + React**  
+🎨 Neo-Brutalist UI design  
+📱 Fully responsive layout  
+🧑‍💻 Projects showcase  
+📄 About / profile section  
+📬 Contact section  
+🚀 Fast performance with Next.js  
+
+---
+
+# 🧰 Tech Stack
+
+| Technology | Purpose |
+|------------|--------|
+| Next.js | React framework |
+| React | UI library |
+| CSS / Tailwind | Styling |
+| Rocket.new | AI website generator |
+
+---
+
+# 📸 Preview
+
+Add your screenshot here:
+
+```markdown
+![Preview](preview.png)
+```
+
+---
+
+# 📂 Project Structure
 
 ```
-nextjs/
-├── public/             # Static assets
-├── src/
-│   ├── app/            # App router components
-│   │   ├── layout.tsx  # Root layout component
-│   │   └── page.tsx    # Main page component
-│   ├── components/     # Reusable UI components
-│   ├── styles/         # Global styles and Tailwind configuration
-├── next.config.mjs     # Next.js configuration
-├── package.json        # Project dependencies and scripts
-├── postcss.config.js   # PostCSS configuration
-└── tailwind.config.js  # Tailwind CSS configuration
-
+dazigner
+│
+├── app
+│
+├── components
+│
+├── public
+│   ├── images
+│   └── preview.png
+│
+├── styles
+│
+├── package.json
+└── README.md
 ```
 
-## 🧩 Page Editing
+---
 
-You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
+# ⚙️ Getting Started
 
-## 🎨 Styling
+### 1️⃣ Clone the repository
 
-This project uses Tailwind CSS for styling with the following features:
-- Utility-first approach for rapid development
-- Custom theme configuration
-- Responsive design utilities
-- PostCSS and Autoprefixer integration
+```
+git clone https://github.com/shdzazmi/dazigner.git
+```
 
-## 📦 Available Scripts
+### 2️⃣ Install dependencies
 
-- `npm run dev` - Start development server on port 4028
-- `npm run build` - Build the application for production
-- `npm run start` - Start the development server
-- `npm run serve` - Start the production server
-- `npm run lint` - Run ESLint to check code quality
-- `npm run lint:fix` - Fix ESLint issues automatically
-- `npm run format` - Format code with Prettier
+```
+npm install
+```
 
-## 📱 Deployment
+### 3️⃣ Run development server
 
-Build the application for production:
+```
+npm run dev
+```
 
-  ```bash
-  npm run build
-  ```
+Open:
 
-## 📚 Learn More
+```
+http://localhost:3000
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial
+# 👨‍💻 Author
 
-You can check out the [Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Shahdaz Azmi**
 
-## 🙏 Acknowledgments
+Developer • Designer • Creator
 
-- Built with [Rocket.new](https://rocket.new)
-- Powered by Next.js and React
-- Styled with Tailwind CSS
+GitHub  
+https://github.com/shdzazmi
 
-Built with ❤️ on Rocket.new
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+<div align="center">
+
+⚡ Built with creativity, AI, and neo-brutalist vibes
+
+</div>
