@@ -14,7 +14,8 @@ A modern **neo-brutalist portfolio website** built with **Next.js and React** to
 </div>
 
 ---
-
+![Demo](cover.gif)
+---
 # 🌐 About The Project
 
 **Dazigner** is my personal portfolio website designed with a **neo-brutalist visual style** — bold colors, sharp contrasts, and playful layouts.
@@ -63,65 +64,6 @@ Neo-brutalism embraces **raw digital aesthetics** while remaining modern and int
 | React | UI library |
 | CSS / Tailwind | Styling |
 | Rocket.new | AI website generator |
-
----
-
-# 📸 Preview
-
-Add your screenshot here:
-
-```markdown
-![Preview](preview.png)
-```
-
----
-
-# 📂 Project Structure
-
-```
-dazigner
-│
-├── app
-│
-├── components
-│
-├── public
-│   ├── images
-│   └── preview.png
-│
-├── styles
-│
-├── package.json
-└── README.md
-```
-
----
-
-# ⚙️ Getting Started
-
-### 1️⃣ Clone the repository
-
-```
-git clone https://github.com/shdzazmi/dazigner.git
-```
-
-### 2️⃣ Install dependencies
-
-```
-npm install
-```
-
-### 3️⃣ Run development server
-
-```
-npm run dev
-```
-
-Open:
-
-```
-http://localhost:3000
-```
 
 ---
 
