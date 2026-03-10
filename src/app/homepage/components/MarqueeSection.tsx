@@ -3,7 +3,8 @@
 import React from "react";
 
 const items = [
-    "Socmed Design",
+    "Landing Page",
+    "UI/UX Design",
     "Website Development",
     "Motion Design",
     "Company Profile Page",

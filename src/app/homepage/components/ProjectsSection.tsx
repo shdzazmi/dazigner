@@ -19,50 +19,38 @@ const projects = [
     },
     {
         id: 2,
-        title: "Body Wellness Web Application.",
+        title: "Body Wellness Web Application",
         category: "Full-Stack Development",
         year: "2025",
         description: "Web based app for a body wellness business that helps manage room bookings, handle sales through a POS system, and track completed therapy sessions for reporting and export.",
         image: "/assets/images/project-cover-1.jpg",
-        alt: "Brand identity design with clean typography, minimalist logo and color palette for architecture firm",
+        alt: "Body Wellness Web Application interface",
         featured: false,
-        tags: ["Illustrator", "InDesign"],
+        tags: ["Laravel", "Javascript", "Bootstrap"],
         color: "#FF3B3B"
     },
     {
         id: 3,
-        title: "Wellness App — Meridian",
-        category: "Mobile UI",
-        year: "2025",
-        description: "iOS app for guided meditation and sleep tracking. 4.9★ on App Store, 80K downloads in first month.",
-        image: "https://img.rocket.new/generatedImages/rocket_gen_img_163e50af9-1772131420505.png",
-        alt: "Mobile app interface for wellness and meditation with soft gradient background and clean UI components",
+        title: "Kenikahanku Wedding Invitation",
+        category: "Front-End Development",
+        year: "2022",
+        description: "Kenikahanku is an online wedding invitation with warm and elegant design.",
+        image: "/assets/images/kenikahanku.png",
+        alt: "Kenikahanku interface",
         featured: false,
-        tags: ["Figma", "Principle"],
-        color: "#1A1A1A"
-    },
-    {
-        id: 4,
-        title: "E-Commerce Platform",
-        category: "Front-End Dev",
-        year: "2025",
-        description: "Custom headless storefront for a luxury streetwear brand. 2.1s load time, 22% higher conversion.",
-        image: "https://img.rocket.new/generatedImages/rocket_gen_img_1fd1de16f-1772144905540.png",
-        alt: "E-commerce product page with clean white background, large product image and minimalist checkout flow",
-        featured: false,
-        tags: ["Next.js", "Shopify", "Tailwind"],
+        tags: ["Blade", "Javascript", "Bootstrap"],
         color: "#FFE135"
     },
     {
-        id: 5,
-        title: "SaaS Onboarding Flow",
-        category: "UX Design",
-        year: "2024",
-        description: "Redesigned onboarding for a B2B SaaS tool. Cut time-to-value from 14 days to 3 days.",
-        image: "https://img.rocket.new/generatedImages/rocket_gen_img_10fa3a975-1772983415617.png",
-        alt: "SaaS onboarding flow wireframes and prototype screens on white background with blue accent colors",
+        id: 4,
+        title: "Jogfit",
+        category: "Mobile App",
+        year: "2018",
+        description: "Jogfit is a mobile application designed to help users track their running activities and improve their fitness levels.",
+        image: "/assets/images/jogfit.png",
+        alt: "Jogfit Mobile interface",
         featured: false,
-        tags: ["Figma", "Maze", "Analytics"],
+        tags: ["Java", "Android Studio"],
         color: "#1A1A1A"
     }];
 
@@ -144,6 +132,11 @@ export default function ProjectsSection() {
                     {/* Card 5 */}
                     <div className="reveal-up border-b-3 border-primary">
                         <ProjectCard project={projects[2]} />
+                    </div>
+
+                    {/* Card 6 */}
+                    <div className="reveal-up border-b-3 border-primary">
+                        <ProjectCard project={projects[3]} />
                     </div>
                 </div>
 

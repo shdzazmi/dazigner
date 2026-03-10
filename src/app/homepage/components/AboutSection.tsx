@@ -5,7 +5,7 @@ import AppImage from "@/components/ui/AppImage";
 import Icon from "@/components/ui/AppIcon";
 
 const skills = [
-    "Photoshop", "Illustrator", "After Effects", "Capcut",
+    "Photoshop", "Illustrator", "Figma",
     "React", "TypeScript", "Javascript",
     "Node.js", "Laravel", "Blade", "Livewire", "Vite",
     "PHP", "MySQL", "Bootstrap", "Tailwind CSS"];
@@ -62,7 +62,7 @@ export default function AboutSection() {
                     <div className="reveal-left border-b-3 lg:border-b-0 lg:border-r-3 border-accent relative">
                         <div className="relative h-[400px] lg:h-full min-h-[480px] overflow-hidden">
                             <AppImage
-                                src="https://img.rocket.new/generatedImages/rocket_gen_img_1cc519941-1766749112200.png"
+                                src="/assets/images/about.jpg"
                                 alt="Shahdaz working at desk with design tools, creative workspace with multiple monitors"
                                 fill
                                 className="object-cover"

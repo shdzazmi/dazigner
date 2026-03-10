@@ -3,12 +3,12 @@
 import React, { useEffect, useRef } from "react";
 
 const services = [
+    "Landing Page",
     "UI/UX Design",
-    "Front-End Development",
-    "Brand Identity",
-    "Design Systems",
-    "Prototyping",
-    "Product Strategy",
+    "Website Development",
+    "Motion Design",
+    "Company Profile Page",
+    "Portfolio Page",
 ];
 
 export default function CTASection() {
@@ -75,8 +75,8 @@ export default function CTASection() {
                                 className="font-body text-secondary/60 text-lg leading-relaxed max-w-md"
                                 style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
                             >
-                                I take on a limited number of projects each quarter to ensure every
-                                client gets my full attention. Currently booking for Q2 2026.
+                                Easy to work with, fast learner, and big on clean results.
+                                If you need someone reliable who can handle both tech and creative work, let’s do this!
                             </p>
                         </div>
 
@@ -107,7 +107,7 @@ export default function CTASection() {
 
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                                 <a
-                                    href="https://linkedin.com"
+                                    href="https://www.linkedin.com/in/shdzazmi/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="neo-btn neo-btn-primary text-sm justify-center"
@@ -119,19 +119,19 @@ export default function CTASection() {
                                     </svg>
                                 </a>
                                 <a
-                                    href="https://github.com"
+                                    href="https://wa.me/6285252746570"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="neo-btn neo-btn-primary text-sm justify-center"
                                     style={{ fontFamily: "DM Sans, sans-serif" }}
                                 >
-                                    GitHub
+                                    Whatsapp
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
                                         <path d="M18 6L6 18M6 6h12v12" />
                                     </svg>
                                 </a>
-                                <a
-                                    href="https://instagram.com"
+                                {/* <a
+                                    href="https://www.instagram.com/shdzazmi"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="neo-btn neo-btn-primary text-sm justify-center"
@@ -141,19 +141,7 @@ export default function CTASection() {
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
                                         <path d="M18 6L6 18M6 6h12v12" />
                                     </svg>
-                                </a>
-                                <a
-                                    href="https://github.com"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="neo-btn neo-btn-primary text-sm justify-center"
-                                    style={{ fontFamily: "DM Sans, sans-serif" }}
-                                >
-                                    GitHub
-                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
-                                        <path d="M18 6L6 18M6 6h12v12" />
-                                    </svg>
-                                </a>
+                                </a> */}
 
                             </div>
 
@@ -167,11 +155,11 @@ export default function CTASection() {
 
                             <div>
                                 <a
-                                    href="mailto:[EMAIL_ADDRESS]"
+                                    href="mailto:[shadazzazminuzband@gmail.com]"
                                     className="nav-link font-display font-black text-sm text-primary hover:text-accent transition-colors underline-offset-2 underline"
                                     style={{ fontFamily: "DM Sans, sans-serif", fontWeight: 800 }}
                                 >
-                                    shadaz@dazigner.dev
+                                    shadazzazminuzband@gmail.com
                                 </a>
                             </div>
                         </div>
